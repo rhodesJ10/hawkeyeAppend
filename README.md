@@ -1,2 +1,9 @@
 # hawkeyeAppend
- raw hawkeye trajectory files are produced as individual 1-minute json files. This code is used to append these files to a master json in the same format as other tracking providers
+ Usage:
+
+1 - Place all the data file in the folder "./data".
+    Order and naming it's not important
+
+2 - Execute "script.py"
+
+3 - You can find the output file in "./output/output.jsonl"
